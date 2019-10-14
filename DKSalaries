@@ -1,4 +1,4 @@
-Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+Position,NameAndID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
 G,Tuukka Rask (13564409),Tuukka Rask,13564409,G,8400,ANH@BOS 10/14/2019 01:00PM ET,BOS,23.67
 G,Jaroslav Halak (13564423),Jaroslav Halak,13564423,G,8400,ANH@BOS 10/14/2019 01:00PM ET,BOS,24.7
 G,Braden Holtby (13564410),Braden Holtby,13564410,G,8100,COL@WAS 10/14/2019 05:00PM ET,WAS,6.7
